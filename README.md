@@ -6,8 +6,8 @@
 
 PDF版本初版存在高二（22）班的电脑桌面上，不能及时更新，可以点击下面的链接阅读最新版
 
-成品页面：http://liuzhijun-source.gitee.io/seewotutorial
-代码仓库：https://gitee.com/liuzhijun-source/seewotutorial
+- 成品页面：http://liuzhijun-source.gitee.io/seewotutorial
+- 代码仓库：https://gitee.com/liuzhijun-source/seewotutorial
 
 ## 谁可以读懂这份指南？
 
