@@ -1,37 +1,17 @@
 # 希沃一体机日常维护及使用指南
 
-#### 介绍
-针对学校使用的希沃一体机可能遇到的问题，以及如何使用的教程
+众所周知，目前校内熟练掌握信息技术的学生仍较少。为帮助广大师生解决使用希沃一体机时遇到的各种问题
+，我编写了这份指南。笔者本是翠湖小区高二的一名学生，即将在6月转到老校区，如果指南中有任何错误的地方，请
+大家为我指出，有能力的同学也可以提出修改建议，我会进行修改。
 
-#### 软件架构
-软件架构说明
+## 在哪里可以阅读这份教程？
 
+PDF版本初版存在高二（22）班的电脑桌面上，不能及时更新，可以点击下面的链接阅读最新版
 
-#### 安装教程
+https://gitee.com/liuzhijun-source/seewotutorial
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 谁可以读懂这份指南？
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+**任何人！！！**无论你是教师还是学生，电脑小白还是资深用户，**都可以读懂！**我编写的教程一定会
+尽量让所有没有基础知识的人都能读懂，所以，请不要妄自菲薄，认为自己不会使用电脑，学习信息技术是一
+个漫长的过程，同时也是一项学习、工作、生活都必备的技能。
